@@ -7,7 +7,7 @@
   - N: Nodejs
 
 ______________________________
-## M: MongoDB
+## M: [MongoDB](https://github.com/MERN-STACK2023/MongoDB)
 - Performance: the speed at which a collection is queried is very fast without 
 - Flexibility: very easy to make structural changes without wreaking havac, it like adding a new property to a object
 - Scalability: can support large databases with high request rates at a very low latency
@@ -19,3 +19,8 @@ ______________________________
  - individual records are called documents
     - documents have a key/value structure and look like json
 
+## E: [Express](https://github.com/MERN-STACK2023/Express)
+
+## R: [React](https://github.com/MERN-STACK2023/React)
+
+## N: [NodeJS](https://github.com/MERN-STACK2023/Nodejs)
